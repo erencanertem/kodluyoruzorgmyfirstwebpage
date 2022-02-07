@@ -1,2 +1,1 @@
-# Kodluyoruz.org HTML Eğitimi 
-## My First Web Page Homework
+# My First Web Page Homework
